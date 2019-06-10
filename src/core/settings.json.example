@@ -21,8 +21,8 @@
 		"id":"hook_id",
 		"token":"hook_token"
 	},
-	"prefix": "$$",
-	"ownerid": "138338704937713664",
+	"prefix": "&",
+	"ownerid": "562736283215200298",
 	"author": "Shiigehiro#0164",
 	"invite": "https://discordapp.com/oauth2/authorize?permissions=268954646&client_id=226393343385403403&scope=bot",
 	"support": "https://discord.gg/wfTrpkg",
