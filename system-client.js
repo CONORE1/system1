@@ -53,4 +53,4 @@ process.on("unhandledRejection", err => {
 	system.log(err.stack, "error");
 });
 
-client.login(client.settings.token);
+client.login(NTg3NjM5NjMwMTk5NzgzNDQ0.XP5gXw.3Af2LAqAQtLYqWhoh64a3icZVAU);
